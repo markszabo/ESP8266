@@ -1,0 +1,17 @@
+On/off: FF02FD
+Red: FF1AE5
+Green: FF9A65
+Dark blue: FFA25D
+White: FF22DD
+Dark orange: FF2AD5
+Light green: FFAA55
+Blue: FF926D
+Light pink: FF12ED
+Orange: FF0AF5
+Light blue: FF8A75
+Dark purple: FFB24D
+Light pink 2: FF32CD
+Light orange: FF38C7
+Turquoise: FFB847
+Purple: FF7887
+Very light blue: FFF807
